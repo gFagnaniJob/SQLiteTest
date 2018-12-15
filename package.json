@@ -1,0 +1,24 @@
+{
+  "name": "sqlitetest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gFagnaniJob/SQLiteTest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gFagnaniJob/SQLiteTest/issues"
+  },
+  "homepage": "https://github.com/gFagnaniJob/SQLiteTest#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "nodemon": "^1.18.9",
+    "sqlite3": "^4.0.4"
+  }
+}
